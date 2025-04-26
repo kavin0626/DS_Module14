@@ -1,4 +1,4 @@
-# Ex2-2.D:Applications of Queue - SJF
+# Ex-2.D:Applications of Queue - SJF
 ## DATE:8/3/25
 ## AIM:
 To incorporate the code to calculate the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
